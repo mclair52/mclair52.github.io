@@ -1,4 +1,4 @@
-^:baseURL: "https://mclair52.github.io"
+^:baseURL: "https:mclair52.github.io"
 languageCode: "en-fr"
 title: "Hugo Profile"
 theme: hugo-profile
