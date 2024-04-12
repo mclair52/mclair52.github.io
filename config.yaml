@@ -124,11 +124,11 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Portfolio de Mathieu Clair"
-    title: "Ici vous pouvez admirer mon parcours"
+    intro: "blabla"
+    title: "Portfolio de Mathieu Clair"
     subtitle: "Ici vous pouvez admirer mon parcours"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: /images/Mathieu.ajpg
+    image: /images/Mathieu.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
