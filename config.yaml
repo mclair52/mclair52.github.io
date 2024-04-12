@@ -142,14 +142,14 @@ params:
   about:
     enable: true
     title: "A propos de moi"
-    image: "/images/mathieu.png"
+    image: "/images/Mathieu.jpg"
     content: |-
       Je suis un développeur de logiciels passionné par le développement web. J’ai une formation en BTS SIO au lycée Edme Bouchardon a Chaumont dans lequelle j'ai acqueris mes compétences et j'ai également réalisé 2 stages en entreprise. 
 
 
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Voici quelques technologies avec lesquelles j’ai travaillé récemment :"
       items:
         - "HTML"
         - "CSS"
