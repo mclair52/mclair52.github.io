@@ -131,7 +131,7 @@ params:
     image: /images/Mathieu.jpg
     bottomImage:
       enable: true
-    # roundImage: true # Make hero image circular | default false
+     roundImage: false 
     button:
       enable: true
       name: "CV"
