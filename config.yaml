@@ -136,8 +136,8 @@ params:
       enable: true
       name: "CV"
       url: "/curriculum vitae.pdf"
-      download: true
-      newPage: false
+      download: false
+      newPage: true
 
   # About
   about:
