@@ -54,10 +54,10 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Portfolio Mathieu Clair"
-  description: vous pouvez admirer mon parcours
+  title: "Hugo Profile"
+  description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/Mathieu.png"
+  favicon: "/fav.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -124,11 +124,11 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Isabella."
+    intro: "vous pouvez admirer mon parcours"
+    title: "Ici vous pouvez admirer mon parcours"
     subtitle: "I build things for the web"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: /images/hero.svg
+    image: /images/Mathieu.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
