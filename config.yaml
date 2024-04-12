@@ -128,7 +128,7 @@ params:
     title: "Mathieu Clair"
     subtitle: "Ici vous pouvez admirer mon parcours"
     content: "Un développeur d’applications web passionné. J’ai tendance à utiliser les technologies Web modernes pour créer des sites Web qui ont fière allure, qui sont fantastiques et qui fonctionnent correctement."
-    image: /images/mathieu.png
+    image: /images/Mathieu.jpg
     bottomImage:
       enable: true
     button:
@@ -142,7 +142,7 @@ params:
   about:
     enable: true
     title: "A propos de moi"
-    image: "/images/Mathieu.jpg"
+    image: ""/images/mathieu.png"
     content: |-
       Je suis un développeur de logiciels passionné par le développement web. J’ai une formation en BTS SIO au lycée Edme Bouchardon a Chaumont dans lequelle j'ai acqueris mes compétences et j'ai également réalisé 2 stages en entreprise. 
 
