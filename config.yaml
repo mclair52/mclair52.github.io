@@ -157,6 +157,8 @@ params:
         - "ReactNative"
         - "C#"
         - "SQL"
+        - "PHP"
+        - "JSON"
 
   # Experience
   experience:
