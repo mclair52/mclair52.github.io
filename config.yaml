@@ -1,6 +1,6 @@
 baseURL: "https://mclair52.github.io"
 languageCode: "en-fr"
-title: "Hugo Profile"
+title: "Portfolio Mathieu Clair"
 theme: hugo-profile
 
 outputs:
@@ -54,8 +54,8 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "Portfolio Mathieu Clair"
+  description: vous pouvez admirer mon parcours
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
