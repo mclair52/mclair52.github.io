@@ -124,9 +124,9 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "vous pouvez admirer mon parcours"
+    intro: "Portfolio de Mathieu Clair"
     title: "Ici vous pouvez admirer mon parcours"
-    subtitle: "I build things for the web"
+    subtitle: "Ici vous pouvez admirer mon parcours"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: /images/Mathieu.jpg
     bottomImage:
