@@ -131,7 +131,6 @@ params:
     image: /images/Mathieu.jpg
     bottomImage:
       enable: true
-     roundImage: false 
     button:
       enable: true
       name: "CV"
