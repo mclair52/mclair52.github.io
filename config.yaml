@@ -155,9 +155,9 @@ params:
         - "HTML"
         - "CSS"
         - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "ReactNative"
+        - "C#"
+        - "SQL"
 
   # Experience
   experience:
