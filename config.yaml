@@ -125,9 +125,9 @@ params:
   hero:
     enable: true
     intro: "Portfolio de"
-    title: "athieu Clair"
+    title: "Mathieu Clair"
     subtitle: "Ici vous pouvez admirer mon parcours"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    content: "Un développeur d’applications web passionné. J’ai tendance à utiliser les technologies Web modernes pour créer des sites Web qui ont fière allure, qui sont fantastiques et qui fonctionnent correctement."
     image: /images/Mathieu.jpg
     bottomImage:
       enable: true
