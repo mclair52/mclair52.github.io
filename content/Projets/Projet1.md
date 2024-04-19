@@ -1,5 +1,5 @@
 ---
-title: "Stage de première année"
+title: "Premier projet"
 date: 2024-04-18T19:53:33+05:30
 draft: false
 author: "Mathieu"
