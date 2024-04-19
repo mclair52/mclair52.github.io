@@ -323,11 +323,11 @@ params:
     content: Ma boîte de réception est toujours ouverte. Que vous ayez une question ou que vous souhaitiez simplement me dire bonjour, je ferai de mon mieux pour vous répondre!
     email: mathieuc52700@gmail.com
     btnName: Contacter moi
-    # formspree:
-    #   enable: true # `contact.email` value will be ignored
-    #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
-    #   emailCaption: "Enter your email address"
-    #   messageCaption: "Enter your message here"
+     formspree:
+       enable: true
+      formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
+       emailCaption: "Enter your email address"
+      messageCaption: "Enter your message here"
 
   footer:
     recentPosts:
