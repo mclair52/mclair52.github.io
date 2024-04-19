@@ -6,7 +6,7 @@ author: "Mathieu"
 tags:
   - C# 
   - MySQL
-#image: /content/Projets/loisir.png
+image: /content/Projets/loisir.png
 description: ""
 toc: true
 mathjax: true
