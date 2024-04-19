@@ -21,16 +21,13 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-
-Menus:
+      
 Menus:
   main:
     - identifier: AP
       name: AP et Projets
       title: AP et Projets
       url: /Projets/
-          
-      
       weight: 1
     - identifier: Stages
       name: Stages
