@@ -132,7 +132,7 @@ params:
     bottomImage:
       enable: true
     button:
-      enable: true
+      enable: false
       name: "CV"
       image: /images/CV.pdf
       download: true
