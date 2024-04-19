@@ -132,11 +132,11 @@ params:
     bottomImage:
       enable: true
     button:
-      enable: false
+      enable: true
       name: "CV"
       image: /images/CV.pdf
       download: true
-      newPage: false
+      newPage: true
 
   # About
   about:
@@ -240,10 +240,10 @@ params:
           spécialités retenues
             - Mathématique
             - Physique-Chimie
-      - title: "Bachelor of Science in Computer Science"
+      - title: "Brevet de technicien supérieur - Services informatiques aux organisations"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
+          name: "Lycée Edmé-Bouchardon"
+          url: "https://lyc-bouchardon.monbureaunumerique.fr"
         date: "2022 - 2024"
         content: |-
           I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
