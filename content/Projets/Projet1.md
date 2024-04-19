@@ -6,7 +6,6 @@ author: "Mathieu"
 tags:
   - C# 
   - MySQL
-  - 
 image: /content/Projets/loisir.png
 description: ""
 toc: true
