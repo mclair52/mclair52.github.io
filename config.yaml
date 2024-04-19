@@ -165,65 +165,59 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - company: "SOUCHET INSPIRED WOODWORK"
+        companyUrl: "https://www.souchetwoodwork.com/en/souchet-woodwork-en/"
+        date: "30 Mai 2023 - 1 Juillet 2023"
         featuredLink:
-          enable: true
+          enable: false
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: "Stage de première année SIO."
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+      -  company: "Microserie"
+        companyUrl: "https://www.microserie.fr"
+        date: "15 Janvier 2024- 17 février 2024"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
-        info:
-          enable: true
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
         info:
           enable: false
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          content: I worked as a software developer for more than one year in Amazon.
+        content: "Stage de deuxième année SIO."
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+    #  - job: "Junior Software Developer"
+     #   company: "Apple"
+      #  companyUrl: "https://example.com"
+       # date: "Jan 2020 - Aug 2020"
+        #info:
+         # enable: false
+        #featuredLink:
+         # enable: true
+          #url: "https://example.com"
+        #content: |
+         # I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          #- Lead backend developer for a product.
+          #- Created a frontend design for a product.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+   #   - job: "UI/UX Designer"
+   #     company: "Netflix"
+   #     companyUrl: "https://example.com"
+    #    date: "June 2017 - Nov 2019"
+     #   featuredLink:
+    #      enable: true
+     #     url: "https://example.com"
+      #  content: |
+       #   I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+ #         - Lead backend developer for a product.
+  #        - Created a frontend design for a product.
+
+  #    - job: "Product Designer"
+     #   company: "Google"
+    #    companyUrl: "https://example.com"
+    #    date: "Feb 2016 - Mar 2017"
+      #  content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
   # Education
   education:
