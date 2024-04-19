@@ -321,7 +321,7 @@ params:
     enable: true
     title: "Pour me joindre"
     content: Ma boîte de réception est toujours ouverte. Que vous ayez une question ou que vous souhaitiez simplement me dire bonjour, je ferai de mon mieux pour vous répondre!
-    email: mathieuc52700@gmail.com@gmail.com
+    email: mathieuc52700@gmail.com
     btnName: Contacter moi
     # formspree:
     #   enable: true # `contact.email` value will be ignored
