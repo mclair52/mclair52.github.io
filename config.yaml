@@ -246,13 +246,9 @@ params:
           url: "https://lyc-bouchardon.monbureaunumerique.fr"
         date: "2022 - 2024"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          Options:
+            - Solutions Logicielles et Applications Métiers
+            - mathematique approfondie
         featuredLink:
           enable: true
           name: "My academic record"
@@ -359,11 +355,8 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      mon portfolio: 
+      url: "http://mathieu.clair1.free.fr/portfolio.index.html"
 
   # List pages like blogs and posts
   listPages:
