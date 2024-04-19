@@ -174,7 +174,7 @@ params:
           url: "https://example.com"
         content: "Stage de première année SIO."
 
-      -  company: "Microserie"
+      - company: "Microserie"
         companyUrl: "https://www.microserie.fr"
         date: "15 Janvier 2024- 17 février 2024"
         featuredLink:
