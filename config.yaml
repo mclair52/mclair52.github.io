@@ -134,7 +134,8 @@ params:
     button:
       enable: true
       name: "CV"
-      url: "curriculum vitae.pdf"
+      url: "CV.pdf"
+      image:"CV.pdf"
       download: false
       newPage: true
 
