@@ -28,7 +28,7 @@ Menus:
     - identifier: AP
       name: AP et Projets
       title: AP et Projets
-      url: Projet1.md
+      url: /Projets/Projet1.md
           
       
       weight: 1
