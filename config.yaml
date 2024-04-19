@@ -242,29 +242,18 @@ params:
             - Physique-Chimie
       - title: "Brevet de technicien supérieur - Services informatiques aux organisations"
         school:
-          name: "Lycée Edmé-Bouchardon"
+          name: "Lycée Edmé-Bouchardon, 52000 Chaumont"
           url: "https://lyc-bouchardon.monbureaunumerique.fr"
         date: "2022 - 2024"
         content: |-
           Options:
             - Solutions Logicielles et Applications Métiers
             - mathematique approfondie
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
-        school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Google kickstart runner
@@ -286,7 +275,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Hugo Profile
