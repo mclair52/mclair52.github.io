@@ -134,7 +134,7 @@ params:
     button:
       enable: true
       name: "CV"
-      image: /images/CV.pdf
+      url: "http://mathieu.clair1.free.fr/portfolio/img/work/curriculum%20vitae.pdf"
       download: true
       newPage: true
 
@@ -339,8 +339,8 @@ params:
     enable: true
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
-    btnName: Mail me
+    email: mathieuc52700@gmail.com@gmail.com
+    btnName: Contacter moi
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
@@ -354,9 +354,7 @@ params:
       title: Recent Posts
       enable: true
       disableFeaturedImage: false
-    socialNetworks:
-      mon portfolio: 
-      url: "http://mathieu.clair1.free.fr/portfolio.index.html"
+
 
   # List pages like blogs and posts
   listPages:
