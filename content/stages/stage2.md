@@ -1,9 +1,9 @@
 ---
-title: "Stage de première année"
+title: "Stage de deuxième année"
 date: 2024-04-18T19:53:33+05:30
 draft: false
 author: "Mathieu"
-image: /images/infra.png
+image: /images/Infra.png
 description: ""
 toc: true
 mathjax: true
