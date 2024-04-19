@@ -28,8 +28,8 @@ Menus:
     - identifier: AP
       name: AP et Projets
       title: AP et Projets
-      url: /projets/
-      image: loisir.png
+      url: /Projets/
+      image: /Projets/loisir.png
       weight: 1
     - identifier: Stages
       name: Stages
